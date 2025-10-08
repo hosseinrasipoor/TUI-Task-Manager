@@ -144,18 +144,6 @@ which prints
 3. [ ] 3rd task
 ```
 
-## Tips and grading notes
 
-- write clean, modular code and split responsibilities into separate files
-- validate input strings and dates carefully
-- preserve user data on save and autoload on startup
-
-## License
-
-Choose a license such as MIT or BSD for your project and include a `LICENSE` file
-
-## Contributing
-
-Open issues and pull requests if you want to improve features, add tests, or refactor the UI
 
 
